@@ -93,10 +93,12 @@ def editItem(item, changedName, recipeItemIds=[], recipeItemAmounts=[], recipeYi
 
 def calculateRecipe(item, amount, layer=0):
     recipeCount = math.ceil(amount/item["recipeYield"])
-    actualAmount = item["recipeYield"]*recipeCount
     itemIds = item["recipeItemIds"]
     if inStockedItems(item["id"]):
         itemIds = []
+        actualAmount = amount
+    else:
+        actualAmount = item["recipeYield"]*recipeCount
     for x in range(len(itemIds)):
         calculateRecipe(getItemFromId(itemIds[x]), item["recipeItemAmounts"][x]*recipeCount, layer+1)
     if itemIds == []:
@@ -429,6 +431,10 @@ def sortItems():
         x["id"] = names.index(x["name"].lower())
         for y in range(len(x["recipeItemIds"])):
             x["recipeItemIds"][y] = names.index(getItemFromId(x["recipeItemIds"][y])["name"].lower())
+    stockItems = []
+    for x in range(len(items["stockedItems"])):
+        stockItems.append(names.index(getItemFromId(items["stockedItems"][x])["name"].lower()))
+    items["stockedItems"] = stockItems
     items["itemList"] = newItemList
     with open(jsonFileName, "w") as f:
         json.dump(items, f, indent=2)

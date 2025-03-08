@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['Recipe calculator.py'],
+    ['Recipe Calculator.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -28,7 +28,7 @@ exe = EXE(
     a.zipfiles,
     a.datas,
     [],
-    name='Recipe calculator',
+    name='Recipe Calculator',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,

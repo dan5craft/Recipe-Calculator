@@ -1,0 +1,1134 @@
+{
+  "stockedItems": [
+    32,
+    4,
+    48,
+    45,
+    54,
+    14,
+    79
+  ],
+  "itemList": [
+    {
+      "name": "Advanced alloy",
+      "id": 0,
+      "recipeItemIds": [
+        43,
+        54
+      ],
+      "recipeItemAmounts": [
+        1,
+        1
+      ],
+      "recipeYield": 2
+    },
+    {
+      "name": "Advanced alloy wire",
+      "id": 1,
+      "recipeItemIds": [
+        0
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 8
+    },
+    {
+      "name": "Aluminium",
+      "id": 2,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Aluminium powder",
+      "id": 3,
+      "recipeItemIds": [
+        2
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Analog circuit board",
+      "id": 4,
+      "recipeItemIds": [
+        5,
+        72,
+        38,
+        49
+      ],
+      "recipeItemAmounts": [
+        2,
+        3,
+        4,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Capacitor",
+      "id": 5,
+      "recipeItemIds": [
+        32,
+        3,
+        19
+      ],
+      "recipeItemAmounts": [
+        2,
+        1,
+        2
+      ],
+      "recipeYield": 2
+    },
+    {
+      "name": "Cast steel plate",
+      "id": 6,
+      "recipeItemIds": [
+        54
+      ],
+      "recipeItemAmounts": [
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Cement",
+      "id": 7,
+      "recipeItemIds": [
+        41,
+        10
+      ],
+      "recipeItemAmounts": [
+        1,
+        3
+      ],
+      "recipeYield": 4
+    },
+    {
+      "name": "Centrifuge",
+      "id": 8,
+      "recipeItemIds": [
+        9,
+        48,
+        58,
+        17,
+        4
+      ],
+      "recipeItemAmounts": [
+        1,
+        2,
+        8,
+        8,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Centrifuge element",
+      "id": 9,
+      "recipeItemIds": [
+        58,
+        68,
+        45
+      ],
+      "recipeItemAmounts": [
+        4,
+        4,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Clay",
+      "id": 10,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Coal",
+      "id": 11,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Coal powder",
+      "id": 12,
+      "recipeItemIds": [
+        11
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Cobalt",
+      "id": 13,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Concrete",
+      "id": 14,
+      "recipeItemIds": [
+        7,
+        29,
+        53
+      ],
+      "recipeItemAmounts": [
+        1,
+        8,
+        8
+      ],
+      "recipeYield": 16
+    },
+    {
+      "name": "Copper",
+      "id": 15,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Copper coil",
+      "id": 16,
+      "recipeItemIds": [
+        44,
+        33
+      ],
+      "recipeItemAmounts": [
+        8,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Copper plate",
+      "id": 17,
+      "recipeItemIds": [
+        15
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Copper powder",
+      "id": 18,
+      "recipeItemIds": [
+        15
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Copper wire",
+      "id": 19,
+      "recipeItemIds": [
+        15
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 8
+    },
+    {
+      "name": "Derrick",
+      "id": 20,
+      "recipeItemIds": [
+        59,
+        61,
+        45,
+        57,
+        67
+      ],
+      "recipeItemAmounts": [
+        20,
+        2,
+        1,
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Desh",
+      "id": 21,
+      "recipeItemIds": [
+        42,
+        39,
+        22
+      ],
+      "recipeItemAmounts": [
+        200,
+        200,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Desh blend",
+      "id": 22,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Drop of mercury",
+      "id": 23,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Fluorite",
+      "id": 24,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Glass",
+      "id": 25,
+      "recipeItemIds": [
+        53
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Glass pane",
+      "id": 26,
+      "recipeItemIds": [
+        25
+      ],
+      "recipeItemAmounts": [
+        6
+      ],
+      "recipeYield": 16
+    },
+    {
+      "name": "Gold",
+      "id": 27,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Gold plate",
+      "id": 28,
+      "recipeItemIds": [
+        27
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Gravel",
+      "id": 29,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "High-speed steel",
+      "id": 30,
+      "recipeItemIds": [
+        54,
+        69,
+        13
+      ],
+      "recipeItemAmounts": [
+        5,
+        3,
+        1
+      ],
+      "recipeYield": 9
+    },
+    {
+      "name": "High-speed steel bolt",
+      "id": 31,
+      "recipeItemIds": [
+        30
+      ],
+      "recipeItemAmounts": [
+        2
+      ],
+      "recipeYield": 16
+    },
+    {
+      "name": "Insulator",
+      "id": 32,
+      "recipeItemIds": [
+        62,
+        74
+      ],
+      "recipeItemAmounts": [
+        2,
+        1
+      ],
+      "recipeYield": 4
+    },
+    {
+      "name": "Iron",
+      "id": 33,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Iron plate",
+      "id": 34,
+      "recipeItemIds": [
+        33
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Iron powder",
+      "id": 35,
+      "recipeItemIds": [
+        33
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Large electricity pylon",
+      "id": 36,
+      "recipeItemIds": [
+        14,
+        59,
+        32,
+        16
+      ],
+      "recipeItemAmounts": [
+        2,
+        8,
+        8,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Lead",
+      "id": 37,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Lead wire",
+      "id": 38,
+      "recipeItemIds": [
+        37
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 8
+    },
+    {
+      "name": "Light oil",
+      "id": 39,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Limestone",
+      "id": 40,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Limestone powder",
+      "id": 41,
+      "recipeItemIds": [
+        40
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 4
+    },
+    {
+      "name": "Mercury",
+      "id": 42,
+      "recipeItemIds": [
+        23
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 125
+    },
+    {
+      "name": "Minecraft grade copper",
+      "id": 43,
+      "recipeItemIds": [
+        51,
+        15
+      ],
+      "recipeItemAmounts": [
+        1,
+        1
+      ],
+      "recipeYield": 2
+    },
+    {
+      "name": "Minecraft grade copper wire",
+      "id": 44,
+      "recipeItemIds": [
+        43
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 8
+    },
+    {
+      "name": "Motor",
+      "id": 45,
+      "recipeItemIds": [
+        34,
+        16,
+        52
+      ],
+      "recipeItemAmounts": [
+        2,
+        1,
+        1
+      ],
+      "recipeYield": 2
+    },
+    {
+      "name": "Oil refinery",
+      "id": 46,
+      "recipeItemIds": [
+        73,
+        17,
+        60,
+        56,
+        32,
+        4
+      ],
+      "recipeItemAmounts": [
+        3,
+        16,
+        6,
+        12,
+        8,
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Petroleum gas",
+      "id": 47,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Polymer",
+      "id": 48,
+      "recipeItemIds": [
+        47,
+        12,
+        24
+      ],
+      "recipeItemAmounts": [
+        500,
+        2,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Printed circuit board",
+      "id": 49,
+      "recipeItemIds": [
+        32,
+        28
+      ],
+      "recipeItemAmounts": [
+        1,
+        1
+      ],
+      "recipeYield": 4
+    },
+    {
+      "name": "Pylon kit",
+      "id": 50,
+      "recipeItemIds": [
+        63,
+        36
+      ],
+      "recipeItemAmounts": [
+        4,
+        8
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Redstone",
+      "id": 51,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Ring coil",
+      "id": 52,
+      "recipeItemIds": [
+        16
+      ],
+      "recipeItemAmounts": [
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Sand",
+      "id": 53,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Steel",
+      "id": 54,
+      "recipeItemIds": [
+        11,
+        33
+      ],
+      "recipeItemAmounts": [
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Steel block",
+      "id": 55,
+      "recipeItemIds": [
+        54
+      ],
+      "recipeItemAmounts": [
+        9
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Steel pipe",
+      "id": 56,
+      "recipeItemIds": [
+        58
+      ],
+      "recipeItemAmounts": [
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Steel pipes",
+      "id": 57,
+      "recipeItemIds": [
+        55
+      ],
+      "recipeItemAmounts": [
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Steel plate",
+      "id": 58,
+      "recipeItemIds": [
+        54
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Steel scafold",
+      "id": 59,
+      "recipeItemIds": [
+        54
+      ],
+      "recipeItemAmounts": [
+        7
+      ],
+      "recipeYield": 8
+    },
+    {
+      "name": "Steel shell",
+      "id": 60,
+      "recipeItemIds": [
+        58
+      ],
+      "recipeItemAmounts": [
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Steel tank",
+      "id": 61,
+      "recipeItemIds": [
+        58,
+        68
+      ],
+      "recipeItemAmounts": [
+        6,
+        2
+      ],
+      "recipeYield": 2
+    },
+    {
+      "name": "String",
+      "id": 62,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Substation",
+      "id": 63,
+      "recipeItemIds": [
+        14,
+        54,
+        32,
+        16
+      ],
+      "recipeItemAmounts": [
+        8,
+        8,
+        12,
+        8
+      ],
+      "recipeYield": 2
+    },
+    {
+      "name": "Super conducting coil",
+      "id": 64,
+      "recipeItemIds": [
+        1,
+        33
+      ],
+      "recipeItemAmounts": [
+        8,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Super conducting ring coil",
+      "id": 65,
+      "recipeItemIds": [
+        64
+      ],
+      "recipeItemAmounts": [
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Titanium",
+      "id": 66,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Titanium drill",
+      "id": 67,
+      "recipeItemIds": [
+        54,
+        30,
+        31,
+        68
+      ],
+      "recipeItemAmounts": [
+        2,
+        2,
+        4,
+        6
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Titanium plate",
+      "id": 68,
+      "recipeItemIds": [
+        66
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Tungsten",
+      "id": 69,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Tungsten powder",
+      "id": 70,
+      "recipeItemIds": [
+        69
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Tungsten wire",
+      "id": 71,
+      "recipeItemIds": [
+        69
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 8
+    },
+    {
+      "name": "Vacuum tube",
+      "id": 72,
+      "recipeItemIds": [
+        26,
+        71,
+        32
+      ],
+      "recipeItemAmounts": [
+        1,
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Welded steel plate",
+      "id": 73,
+      "recipeItemIds": [
+        6
+      ],
+      "recipeItemAmounts": [
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Wool",
+      "id": 74,
+      "recipeItemIds": [
+        62
+      ],
+      "recipeItemAmounts": [
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Oil tar",
+      "id": 75,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Tank",
+      "id": 76,
+      "recipeItemIds": [
+        54,
+        58,
+        60,
+        75
+      ],
+      "recipeItemAmounts": [
+        2,
+        6,
+        4,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Silicon nugget",
+      "id": 77,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Silicon wafer",
+      "id": 78,
+      "recipeItemIds": [
+        77
+      ],
+      "recipeItemAmounts": [
+        6
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Printed silicon wafer",
+      "id": 79,
+      "recipeItemIds": [
+        78
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Microchip",
+      "id": 80,
+      "recipeItemIds": [
+        32,
+        79,
+        19
+      ],
+      "recipeItemAmounts": [
+        1,
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Integrated circuit board",
+      "id": 81,
+      "recipeItemIds": [
+        38,
+        49,
+        80
+      ],
+      "recipeItemAmounts": [
+        4,
+        4,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Asbestos",
+      "id": 82,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Asbestos concrete",
+      "id": 83,
+      "recipeItemIds": [
+        7,
+        29,
+        53,
+        82
+      ],
+      "recipeItemAmounts": [
+        1,
+        2,
+        2,
+        4
+      ],
+      "recipeYield": 16
+    },
+    {
+      "name": "RBMK Structural column",
+      "id": 84,
+      "recipeItemIds": [
+        83,
+        58,
+        15,
+        32
+      ],
+      "recipeItemAmounts": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "RBMK fuel rod",
+      "id": 85,
+      "recipeItemIds": [
+        60,
+        84
+      ],
+      "recipeItemAmounts": [
+        2,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Neutron reflector",
+      "id": 86,
+      "recipeItemIds": [
+        69,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        1
+      ],
+      "recipeYield": 2
+    },
+    {
+      "name": "RBMK tungsten carbide neutron reflector",
+      "id": 87,
+      "recipeItemIds": [
+        84,
+        86
+      ],
+      "recipeItemAmounts": [
+        1,
+        8
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Coal briquette",
+      "id": 88,
+      "recipeItemIds": [
+        12
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Coal coke",
+      "id": 89,
+      "recipeItemIds": [
+        88
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Graphite",
+      "id": 90,
+      "recipeItemIds": [
+        89
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Graphite block",
+      "id": 91,
+      "recipeItemIds": [
+        90
+      ],
+      "recipeItemAmounts": [
+        9
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "RBMK graphite moderator",
+      "id": 92,
+      "recipeItemIds": [
+        84,
+        91
+      ],
+      "recipeItemAmounts": [
+        1,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Copper pipe",
+      "id": 93,
+      "recipeItemIds": [
+        17
+      ],
+      "recipeItemAmounts": [
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Copper shell",
+      "id": 94,
+      "recipeItemIds": [
+        17
+      ],
+      "recipeItemAmounts": [
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "RBMK steam channel",
+      "id": 95,
+      "recipeItemIds": [
+        93,
+        94,
+        84
+      ],
+      "recipeItemAmounts": [
+        6,
+        2,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Good old RBMK",
+      "id": 96,
+      "recipeItemIds": [
+        85,
+        92,
+        87,
+        95
+      ],
+      "recipeItemAmounts": [
+        4,
+        12,
+        8,
+        1
+      ],
+      "recipeYield": 1
+    }
+  ]
+}

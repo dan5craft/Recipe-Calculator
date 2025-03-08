@@ -1,0 +1,2457 @@
+{
+  "stockedItems": [
+    13
+  ],
+  "itemList": [
+    {
+      "name": "Adze",
+      "id": 0,
+      "recipeItemIds": [
+        87,
+        15
+      ],
+      "recipeItemAmounts": [
+        10,
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Amber",
+      "id": 1,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Amber pearl",
+      "id": 2,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Ancient seed",
+      "id": 3,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Antler pickaxe",
+      "id": 4,
+      "recipeItemIds": [
+        179,
+        117
+      ],
+      "recipeItemAmounts": [
+        10,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Anvils",
+      "id": 5,
+      "recipeItemIds": [
+        179,
+        15
+      ],
+      "recipeItemAmounts": [
+        5,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bed",
+      "id": 6,
+      "recipeItemIds": [
+        179
+      ],
+      "recipeItemAmounts": [
+        8
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Beech seeds",
+      "id": 7,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Blueberries",
+      "id": 8,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Boar meat",
+      "id": 9,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Boar trophy",
+      "id": 10,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bone fragments",
+      "id": 11,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bone tower shield",
+      "id": 12,
+      "recipeItemIds": [
+        179,
+        11,
+        155
+      ],
+      "recipeItemAmounts": [
+        10,
+        10,
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bone tower shield t2",
+      "id": 13,
+      "recipeItemIds": [
+        12,
+        179,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        5,
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bone tower shield t3",
+      "id": 14,
+      "recipeItemIds": [
+        13,
+        179,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        10,
+        10
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze",
+      "id": 15,
+      "recipeItemIds": [
+        64,
+        170
+      ],
+      "recipeItemAmounts": [
+        2,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze atgeir",
+      "id": 16,
+      "recipeItemIds": [
+        179,
+        15,
+        127
+      ],
+      "recipeItemAmounts": [
+        10,
+        8,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze atgeir t2",
+      "id": 17,
+      "recipeItemIds": [
+        16,
+        15
+      ],
+      "recipeItemAmounts": [
+        1,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze atgeir t3",
+      "id": 18,
+      "recipeItemIds": [
+        17,
+        15
+      ],
+      "recipeItemAmounts": [
+        1,
+        8
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze atgeir t4",
+      "id": 19,
+      "recipeItemIds": [
+        18,
+        15
+      ],
+      "recipeItemAmounts": [
+        1,
+        12
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze axe",
+      "id": 20,
+      "recipeItemIds": [
+        179,
+        15,
+        127
+      ],
+      "recipeItemAmounts": [
+        4,
+        8,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze axe t2",
+      "id": 21,
+      "recipeItemIds": [
+        20,
+        15,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        4,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze axe t3",
+      "id": 22,
+      "recipeItemIds": [
+        21,
+        15,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        8,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze axe t4",
+      "id": 23,
+      "recipeItemIds": [
+        22,
+        15,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        12,
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze buckler",
+      "id": 24,
+      "recipeItemIds": [
+        15,
+        179
+      ],
+      "recipeItemAmounts": [
+        10,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze buckler t2",
+      "id": 25,
+      "recipeItemIds": [
+        24,
+        15,
+        179
+      ],
+      "recipeItemAmounts": [
+        1,
+        5,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze buckler t3",
+      "id": 26,
+      "recipeItemIds": [
+        25,
+        15,
+        179
+      ],
+      "recipeItemAmounts": [
+        1,
+        10,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze helmet",
+      "id": 27,
+      "recipeItemIds": [
+        15,
+        78
+      ],
+      "recipeItemAmounts": [
+        5,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze mace",
+      "id": 28,
+      "recipeItemIds": [
+        179,
+        15,
+        127
+      ],
+      "recipeItemAmounts": [
+        4,
+        8,
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze mace t2",
+      "id": 29,
+      "recipeItemIds": [
+        28,
+        15
+      ],
+      "recipeItemAmounts": [
+        1,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze mace t3",
+      "id": 30,
+      "recipeItemIds": [
+        29,
+        15
+      ],
+      "recipeItemAmounts": [
+        1,
+        8
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze mace t4",
+      "id": 31,
+      "recipeItemIds": [
+        30,
+        15
+      ],
+      "recipeItemAmounts": [
+        1,
+        12
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze nails",
+      "id": 32,
+      "recipeItemIds": [
+        15
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 20
+    },
+    {
+      "name": "Bronze pickaxe",
+      "id": 33,
+      "recipeItemIds": [
+        69,
+        15
+      ],
+      "recipeItemAmounts": [
+        3,
+        10
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze plate leggins",
+      "id": 34,
+      "recipeItemIds": [
+        15,
+        78
+      ],
+      "recipeItemAmounts": [
+        5,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze plate tunic",
+      "id": 35,
+      "recipeItemIds": [
+        15,
+        78
+      ],
+      "recipeItemAmounts": [
+        5,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze set",
+      "id": 36,
+      "recipeItemIds": [
+        27,
+        35,
+        34
+      ],
+      "recipeItemAmounts": [
+        1,
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze spear",
+      "id": 37,
+      "recipeItemIds": [
+        179,
+        15,
+        78
+      ],
+      "recipeItemAmounts": [
+        5,
+        6,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze spear t2",
+      "id": 38,
+      "recipeItemIds": [
+        37,
+        179,
+        15,
+        78
+      ],
+      "recipeItemAmounts": [
+        1,
+        3,
+        4,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze spear t3",
+      "id": 39,
+      "recipeItemIds": [
+        38,
+        179,
+        15,
+        78
+      ],
+      "recipeItemAmounts": [
+        1,
+        6,
+        8,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze spear t4",
+      "id": 40,
+      "recipeItemIds": [
+        39,
+        179,
+        15,
+        78
+      ],
+      "recipeItemAmounts": [
+        1,
+        9,
+        12,
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze sword",
+      "id": 41,
+      "recipeItemIds": [
+        179,
+        15,
+        127
+      ],
+      "recipeItemAmounts": [
+        2,
+        8,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze sword t2",
+      "id": 42,
+      "recipeItemIds": [
+        41,
+        179,
+        15,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        1,
+        4,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze sword t3",
+      "id": 43,
+      "recipeItemIds": [
+        42,
+        179,
+        15,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        2,
+        8,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronze sword t4",
+      "id": 44,
+      "recipeItemIds": [
+        43,
+        179,
+        15,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        3,
+        12,
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bronzehead arrow",
+      "id": 45,
+      "recipeItemIds": [
+        179,
+        15,
+        85
+      ],
+      "recipeItemAmounts": [
+        8,
+        1,
+        2
+      ],
+      "recipeYield": 20
+    },
+    {
+      "name": "Bukeperries",
+      "id": 46,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Butcher knife",
+      "id": 47,
+      "recipeItemIds": [
+        179,
+        170
+      ],
+      "recipeItemAmounts": [
+        2,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Campfire",
+      "id": 48,
+      "recipeItemIds": [
+        161,
+        179
+      ],
+      "recipeItemAmounts": [
+        5,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Carrot seeds",
+      "id": 49,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Cartography table",
+      "id": 50,
+      "recipeItemIds": [
+        87,
+        11,
+        15,
+        127,
+        152
+      ],
+      "recipeItemAmounts": [
+        10,
+        10,
+        2,
+        5,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Cauldron",
+      "id": 51,
+      "recipeItemIds": [
+        170
+      ],
+      "recipeItemAmounts": [
+        10
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Charcoal kiln",
+      "id": 52,
+      "recipeItemIds": [
+        161,
+        166
+      ],
+      "recipeItemAmounts": [
+        20,
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Chest",
+      "id": 53,
+      "recipeItemIds": [
+        179
+      ],
+      "recipeItemAmounts": [
+        10
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Chopping block",
+      "id": 54,
+      "recipeItemIds": [
+        179,
+        93
+      ],
+      "recipeItemAmounts": [
+        10,
+        10
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Club",
+      "id": 55,
+      "recipeItemIds": [
+        179
+      ],
+      "recipeItemAmounts": [
+        6
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Club t2",
+      "id": 56,
+      "recipeItemIds": [
+        55,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Club t3",
+      "id": 57,
+      "recipeItemIds": [
+        56,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        10
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Club t4",
+      "id": 58,
+      "recipeItemIds": [
+        57,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        15
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Coal",
+      "id": 59,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Coins",
+      "id": 60,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Cooked boar meat",
+      "id": 61,
+      "recipeItemIds": [
+        9
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Cooked deer meat",
+      "id": 62,
+      "recipeItemIds": [
+        83
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Cooking station",
+      "id": 63,
+      "recipeItemIds": [
+        179
+      ],
+      "recipeItemAmounts": [
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Copper",
+      "id": 64,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Copper knife",
+      "id": 65,
+      "recipeItemIds": [
+        179,
+        64
+      ],
+      "recipeItemAmounts": [
+        2,
+        8
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Copper knife t2",
+      "id": 66,
+      "recipeItemIds": [
+        65,
+        64,
+        112
+      ],
+      "recipeItemAmounts": [
+        1,
+        4,
+        8
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Copper knife t3",
+      "id": 67,
+      "recipeItemIds": [
+        66,
+        64,
+        112
+      ],
+      "recipeItemAmounts": [
+        1,
+        8,
+        16
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Copper knife t4",
+      "id": 68,
+      "recipeItemIds": [
+        67,
+        64,
+        112
+      ],
+      "recipeItemAmounts": [
+        1,
+        12,
+        24
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Corewood",
+      "id": 69,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Crude bow",
+      "id": 70,
+      "recipeItemIds": [
+        179,
+        127
+      ],
+      "recipeItemAmounts": [
+        10,
+        8
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Crude bow t2",
+      "id": 71,
+      "recipeItemIds": [
+        70,
+        179,
+        127,
+        78
+      ],
+      "recipeItemAmounts": [
+        1,
+        5,
+        4,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Crude bow t3",
+      "id": 72,
+      "recipeItemIds": [
+        71,
+        179,
+        127,
+        78
+      ],
+      "recipeItemAmounts": [
+        1,
+        10,
+        8,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Crude bow t4",
+      "id": 73,
+      "recipeItemIds": [
+        72,
+        179,
+        127,
+        78
+      ],
+      "recipeItemAmounts": [
+        1,
+        15,
+        12,
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Cultivator",
+      "id": 74,
+      "recipeItemIds": [
+        69,
+        15
+      ],
+      "recipeItemAmounts": [
+        5,
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Cultivator t2",
+      "id": 75,
+      "recipeItemIds": [
+        74,
+        69,
+        15
+      ],
+      "recipeItemAmounts": [
+        1,
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Cultivator t3",
+      "id": 76,
+      "recipeItemIds": [
+        75,
+        69,
+        15
+      ],
+      "recipeItemAmounts": [
+        1,
+        2,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Dandelion",
+      "id": 77,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Deer hide",
+      "id": 78,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Deer hide cape",
+      "id": 79,
+      "recipeItemIds": [
+        78,
+        11
+      ],
+      "recipeItemAmounts": [
+        4,
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Deer hide cape t2",
+      "id": 80,
+      "recipeItemIds": [
+        79,
+        78,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        4,
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Deer hide cape t3",
+      "id": 81,
+      "recipeItemIds": [
+        80,
+        78,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        8,
+        10
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Deer hide cape t4",
+      "id": 82,
+      "recipeItemIds": [
+        81,
+        78,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        12,
+        15
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Deer meat",
+      "id": 83,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Deer trophy",
+      "id": 84,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Feathers",
+      "id": 85,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Fermenter",
+      "id": 86,
+      "recipeItemIds": [
+        87,
+        15,
+        153
+      ],
+      "recipeItemAmounts": [
+        30,
+        5,
+        10
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Finewood",
+      "id": 87,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Finewood bow",
+      "id": 88,
+      "recipeItemIds": [
+        87,
+        69,
+        78
+      ],
+      "recipeItemAmounts": [
+        10,
+        10,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Finewood bow t2",
+      "id": 89,
+      "recipeItemIds": [
+        88,
+        87,
+        69,
+        78
+      ],
+      "recipeItemAmounts": [
+        1,
+        5,
+        5,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Finewood bow t3",
+      "id": 90,
+      "recipeItemIds": [
+        89,
+        87,
+        69,
+        78
+      ],
+      "recipeItemAmounts": [
+        1,
+        10,
+        10,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Finewood bow t4",
+      "id": 91,
+      "recipeItemIds": [
+        90,
+        87,
+        69,
+        78
+      ],
+      "recipeItemAmounts": [
+        1,
+        15,
+        15,
+        6
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Firew arrow",
+      "id": 92,
+      "recipeItemIds": [
+        179,
+        153,
+        85
+      ],
+      "recipeItemAmounts": [
+        8,
+        8,
+        2
+      ],
+      "recipeYield": 20
+    },
+    {
+      "name": "Flint",
+      "id": 93,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Flint axe",
+      "id": 94,
+      "recipeItemIds": [
+        179,
+        93
+      ],
+      "recipeItemAmounts": [
+        4,
+        6
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Flint axe t2",
+      "id": 95,
+      "recipeItemIds": [
+        94,
+        93,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        3,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Flint axe t3",
+      "id": 96,
+      "recipeItemIds": [
+        95,
+        93,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        6,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Flint axe t4",
+      "id": 97,
+      "recipeItemIds": [
+        96,
+        93,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        9,
+        6
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Flint knife",
+      "id": 98,
+      "recipeItemIds": [
+        179,
+        93,
+        127
+      ],
+      "recipeItemAmounts": [
+        2,
+        4,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Flint knife t2",
+      "id": 99,
+      "recipeItemIds": [
+        98,
+        93
+      ],
+      "recipeItemAmounts": [
+        1,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Flint knife t3",
+      "id": 100,
+      "recipeItemIds": [
+        99,
+        93
+      ],
+      "recipeItemAmounts": [
+        1,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Flint knife t4",
+      "id": 101,
+      "recipeItemIds": [
+        100,
+        93
+      ],
+      "recipeItemAmounts": [
+        1,
+        6
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Flint spear",
+      "id": 102,
+      "recipeItemIds": [
+        179,
+        93,
+        127
+      ],
+      "recipeItemAmounts": [
+        5,
+        10,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Flint spear t2",
+      "id": 103,
+      "recipeItemIds": [
+        102,
+        179,
+        93,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        3,
+        5,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Flint spear t3",
+      "id": 104,
+      "recipeItemIds": [
+        103,
+        179,
+        93,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        6,
+        10,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Flint spear t4",
+      "id": 105,
+      "recipeItemIds": [
+        104,
+        179,
+        93,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        9,
+        15,
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Flinthead arrow",
+      "id": 106,
+      "recipeItemIds": [
+        179,
+        93,
+        85
+      ],
+      "recipeItemAmounts": [
+        8,
+        2,
+        2
+      ],
+      "recipeYield": 20
+    },
+    {
+      "name": "Forge",
+      "id": 107,
+      "recipeItemIds": [
+        161,
+        59,
+        179,
+        64
+      ],
+      "recipeItemAmounts": [
+        4,
+        4,
+        10,
+        6
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Forge cooler",
+      "id": 108,
+      "recipeItemIds": [
+        87,
+        64
+      ],
+      "recipeItemAmounts": [
+        25,
+        10
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Forge t2",
+      "id": 109,
+      "recipeItemIds": [
+        107,
+        108
+      ],
+      "recipeItemAmounts": [
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Forge t3",
+      "id": 110,
+      "recipeItemIds": [
+        107,
+        108,
+        5
+      ],
+      "recipeItemAmounts": [
+        1,
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Greydward trophy",
+      "id": 111,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Greydwarf eye",
+      "id": 112,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Grilled neck tail",
+      "id": 113,
+      "recipeItemIds": [
+        142
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Hammer",
+      "id": 114,
+      "recipeItemIds": [
+        179,
+        161
+      ],
+      "recipeItemAmounts": [
+        3,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Hammer t2",
+      "id": 115,
+      "recipeItemIds": [
+        114,
+        179,
+        161
+      ],
+      "recipeItemAmounts": [
+        1,
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Hammer t3",
+      "id": 116,
+      "recipeItemIds": [
+        115,
+        179,
+        161
+      ],
+      "recipeItemAmounts": [
+        1,
+        2,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Hard antler",
+      "id": 117,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Hoe",
+      "id": 118,
+      "recipeItemIds": [
+        179,
+        161
+      ],
+      "recipeItemAmounts": [
+        5,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Hoe t2",
+      "id": 119,
+      "recipeItemIds": [
+        118,
+        179,
+        161
+      ],
+      "recipeItemAmounts": [
+        1,
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Hoe t3",
+      "id": 120,
+      "recipeItemIds": [
+        119,
+        179,
+        161
+      ],
+      "recipeItemAmounts": [
+        1,
+        2,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Honey",
+      "id": 121,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Karve",
+      "id": 122,
+      "recipeItemIds": [
+        87,
+        78,
+        153,
+        32
+      ],
+      "recipeItemAmounts": [
+        30,
+        10,
+        20,
+        80
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather helmet",
+      "id": 123,
+      "recipeItemIds": [
+        78
+      ],
+      "recipeItemAmounts": [
+        6
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather helmet t2",
+      "id": 124,
+      "recipeItemIds": [
+        123,
+        78,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        6,
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather helmet t3",
+      "id": 125,
+      "recipeItemIds": [
+        124,
+        78,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        12,
+        10
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather helmet t4",
+      "id": 126,
+      "recipeItemIds": [
+        125,
+        78,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        18,
+        15
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather scraps",
+      "id": 127,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather set",
+      "id": 128,
+      "recipeItemIds": [
+        123,
+        136,
+        132,
+        79
+      ],
+      "recipeItemAmounts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather set t2",
+      "id": 129,
+      "recipeItemIds": [
+        124,
+        137,
+        133,
+        80
+      ],
+      "recipeItemAmounts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather set t3",
+      "id": 130,
+      "recipeItemIds": [
+        125,
+        138,
+        134,
+        81
+      ],
+      "recipeItemAmounts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather set t4",
+      "id": 131,
+      "recipeItemIds": [
+        126,
+        139,
+        135,
+        82
+      ],
+      "recipeItemAmounts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather trousers",
+      "id": 132,
+      "recipeItemIds": [
+        78
+      ],
+      "recipeItemAmounts": [
+        6
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather trousers t2",
+      "id": 133,
+      "recipeItemIds": [
+        132,
+        78,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        6,
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather trousers t3",
+      "id": 134,
+      "recipeItemIds": [
+        133,
+        78,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        12,
+        10
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather trousers t4",
+      "id": 135,
+      "recipeItemIds": [
+        134,
+        78,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        18,
+        15
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather tunic",
+      "id": 136,
+      "recipeItemIds": [
+        78
+      ],
+      "recipeItemAmounts": [
+        6
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather tunic t2",
+      "id": 137,
+      "recipeItemIds": [
+        136,
+        78,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        6,
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather tunic t3",
+      "id": 138,
+      "recipeItemIds": [
+        137,
+        78,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        12,
+        10
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Leather tunic t4",
+      "id": 139,
+      "recipeItemIds": [
+        138,
+        78,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        18,
+        15
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Mead ketill",
+      "id": 140,
+      "recipeItemIds": [
+        170,
+        64,
+        127
+      ],
+      "recipeItemAmounts": [
+        4,
+        6,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Mushroom",
+      "id": 141,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Neck tail",
+      "id": 142,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Neck trophy",
+      "id": 143,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Portal",
+      "id": 144,
+      "recipeItemIds": [
+        112,
+        87,
+        166
+      ],
+      "recipeItemAmounts": [
+        10,
+        20,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Raft",
+      "id": 145,
+      "recipeItemIds": [
+        179,
+        127,
+        153
+      ],
+      "recipeItemAmounts": [
+        20,
+        6,
+        6
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Rag set",
+      "id": 146,
+      "recipeItemIds": [
+        148,
+        150
+      ],
+      "recipeItemAmounts": [
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Rag set t2",
+      "id": 147,
+      "recipeItemIds": [
+        151,
+        149
+      ],
+      "recipeItemAmounts": [
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Rag trousers",
+      "id": 148,
+      "recipeItemIds": [
+        127
+      ],
+      "recipeItemAmounts": [
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Rag trousers t2",
+      "id": 149,
+      "recipeItemIds": [
+        148,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Rag tunic",
+      "id": 150,
+      "recipeItemIds": [
+        127
+      ],
+      "recipeItemAmounts": [
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Rag tunic t2",
+      "id": 151,
+      "recipeItemIds": [
+        150,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Raspberries",
+      "id": 152,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Resin",
+      "id": 153,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Ruby",
+      "id": 154,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Skeleton trophy",
+      "id": 155,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Smelter",
+      "id": 156,
+      "recipeItemIds": [
+        161,
+        166
+      ],
+      "recipeItemAmounts": [
+        20,
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Stagbreaker",
+      "id": 157,
+      "recipeItemIds": [
+        69,
+        84,
+        127
+      ],
+      "recipeItemAmounts": [
+        20,
+        5,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Stagbreaker t2",
+      "id": 158,
+      "recipeItemIds": [
+        157,
+        69,
+        84,
+        127,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        5,
+        2,
+        1,
+        10
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Stagbreaker t3",
+      "id": 159,
+      "recipeItemIds": [
+        158,
+        69,
+        84,
+        127,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        10,
+        4,
+        2,
+        20
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Stagbreaker t4",
+      "id": 160,
+      "recipeItemIds": [
+        159,
+        69,
+        84,
+        127,
+        11
+      ],
+      "recipeItemAmounts": [
+        1,
+        15,
+        6,
+        3,
+        30
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Stone",
+      "id": 161,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Stone axe",
+      "id": 162,
+      "recipeItemIds": [
+        179,
+        161
+      ],
+      "recipeItemAmounts": [
+        5,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Stone axe t2",
+      "id": 163,
+      "recipeItemIds": [
+        162,
+        161
+      ],
+      "recipeItemAmounts": [
+        1,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Stone axe t3",
+      "id": 164,
+      "recipeItemIds": [
+        163,
+        161
+      ],
+      "recipeItemAmounts": [
+        1,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Stone axe t4",
+      "id": 165,
+      "recipeItemIds": [
+        164,
+        161
+      ],
+      "recipeItemAmounts": [
+        1,
+        6
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Surtling core",
+      "id": 166,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Tankard",
+      "id": 167,
+      "recipeItemIds": [
+        87,
+        153
+      ],
+      "recipeItemAmounts": [
+        5,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Tanning rack",
+      "id": 168,
+      "recipeItemIds": [
+        179,
+        93,
+        127,
+        78
+      ],
+      "recipeItemAmounts": [
+        10,
+        15,
+        20,
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Thistle",
+      "id": 169,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Tin",
+      "id": 170,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Torch",
+      "id": 171,
+      "recipeItemIds": [
+        179,
+        153
+      ],
+      "recipeItemAmounts": [
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Troll hide",
+      "id": 172,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Troll hide cape",
+      "id": 173,
+      "recipeItemIds": [
+        172,
+        11
+      ],
+      "recipeItemAmounts": [
+        10,
+        10
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Troll leather hood",
+      "id": 174,
+      "recipeItemIds": [
+        172,
+        11
+      ],
+      "recipeItemAmounts": [
+        5,
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Troll leather trousers",
+      "id": 175,
+      "recipeItemIds": [
+        172
+      ],
+      "recipeItemAmounts": [
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Troll leather tunic",
+      "id": 176,
+      "recipeItemIds": [
+        172
+      ],
+      "recipeItemAmounts": [
+        5
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Troll set",
+      "id": 177,
+      "recipeItemIds": [
+        174,
+        176,
+        175,
+        173
+      ],
+      "recipeItemAmounts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Troll trophy",
+      "id": 178,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Wood",
+      "id": 179,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Wood arrow",
+      "id": 180,
+      "recipeItemIds": [
+        179
+      ],
+      "recipeItemAmounts": [
+        8
+      ],
+      "recipeYield": 20
+    },
+    {
+      "name": "Wood shield",
+      "id": 181,
+      "recipeItemIds": [
+        179,
+        153,
+        127
+      ],
+      "recipeItemAmounts": [
+        10,
+        4,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Wood shield t2",
+      "id": 182,
+      "recipeItemIds": [
+        181,
+        179,
+        153,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        5,
+        2,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Wood shield t3",
+      "id": 183,
+      "recipeItemIds": [
+        182,
+        179,
+        153,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        10,
+        4,
+        4
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Wood tower shield",
+      "id": 184,
+      "recipeItemIds": [
+        179,
+        127
+      ],
+      "recipeItemAmounts": [
+        10,
+        6
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Wood tower shield t2",
+      "id": 185,
+      "recipeItemIds": [
+        184,
+        179,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        5,
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Wood tower shield t3",
+      "id": 186,
+      "recipeItemIds": [
+        185,
+        179,
+        127
+      ],
+      "recipeItemAmounts": [
+        1,
+        10,
+        6
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Workbench",
+      "id": 187,
+      "recipeItemIds": [
+        179
+      ],
+      "recipeItemAmounts": [
+        10
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Workbench t2",
+      "id": 188,
+      "recipeItemIds": [
+        187,
+        54
+      ],
+      "recipeItemAmounts": [
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Workbench t3",
+      "id": 189,
+      "recipeItemIds": [
+        187,
+        54,
+        168
+      ],
+      "recipeItemAmounts": [
+        1,
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Workbench t4",
+      "id": 190,
+      "recipeItemIds": [
+        187,
+        54,
+        168,
+        0
+      ],
+      "recipeItemAmounts": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Yellow mushroom",
+      "id": 191,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    }
+  ]
+}
