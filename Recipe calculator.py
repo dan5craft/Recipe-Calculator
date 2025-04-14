@@ -117,17 +117,17 @@ def calculateRecipe(item, amount, layer=0):
         combinedAmounts[combinedItems.index(item)] += actualAmount
     if layer == 0:
         print("How to craft "+str(amount)+" "+item["name"]+".\n")
-        print("Raw materials required:")
+        print("# Raw materials required:")
         for x in range(len(rawItems)):
-            print(str(rawAmounts[x])+" "+rawItems[x]["name"])
-        print("\nCombined amounts:")
+            print("- "+str(rawAmounts[x])+" "+rawItems[x]["name"])
+        print("\n# Combined amounts:")
         for x in range(len(combinedItems)):
             if combinedItems[x] == "":
                 print("")
             elif rawItems.count(combinedItems[x]) > 0:
-                print("get "+str(combinedAmounts[x])+" "+combinedItems[x]["name"])
+                print("- get "+str(combinedAmounts[x])+" "+combinedItems[x]["name"])
             else:
-                print("craft "+str(combinedAmounts[x])+" "+combinedItems[x]["name"])
+                print("- craft "+str(combinedAmounts[x])+" "+combinedItems[x]["name"])
 
 def addItems():
     item = input("\nitem name:\n")
