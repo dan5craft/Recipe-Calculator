@@ -31,6 +31,17 @@ combinedItems = []
 combinedAmounts = []
 dependants = []
 
+class Item:
+    def __init__(self, name, count):
+        self.name = name
+        self.count = count
+
+def findItemInList(name, list):
+    for item in list:
+        if item.name.lower() == name.lower():
+            return list.index(item)
+    return -1
+
 def printItemList():
     print("List of all items\nName | ID")
     for x in items["itemList"]:
@@ -91,7 +102,16 @@ def editItem(item, changedName, recipeItemIds=[], recipeItemAmounts=[], recipeYi
     with open(jsonFileName, "w") as f:
         json.dump(items, f, indent=2)
 
-def calculateRecipe(item, amount, layer=0):
+def calculateRecipe(item, amount, layer=0, leftovers=[]):
+    if findItemInList(item["name"], leftovers) != -1:
+        diff = amount - leftovers[findItemInList(item["name"], leftovers)].count
+        print(diff)
+        if(diff < 1):
+            leftovers[findItemInList(item["name"], leftovers)].count -= amount
+            return
+        else:
+            amount -= diff
+            leftovers[findItemInList(item["name"], leftovers)].count -= diff
     recipeCount = math.ceil(amount/item["recipeYield"])
     itemIds = item["recipeItemIds"]
     if inStockedItems(item["id"]):
@@ -99,8 +119,14 @@ def calculateRecipe(item, amount, layer=0):
         actualAmount = amount
     else:
         actualAmount = item["recipeYield"]*recipeCount
+    if(actualAmount > amount):
+        if findItemInList(item["name"], leftovers) == -1:
+            leftovers.append(Item(item["name"],actualAmount-amount))
+            print(actualAmount-amount)
+        else:
+            leftovers[findItemInList(item["name"], leftovers)].count += actualAmount-amount
     for x in range(len(itemIds)):
-        calculateRecipe(getItemFromId(itemIds[x]), item["recipeItemAmounts"][x]*recipeCount, layer+1)
+        calculateRecipe(getItemFromId(itemIds[x]), item["recipeItemAmounts"][x]*recipeCount, layer+1,leftovers)
     if itemIds == []:
         if rawItems.count(item) == 0:
             rawItems.append(item)
