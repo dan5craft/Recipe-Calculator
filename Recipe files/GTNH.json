@@ -1,0 +1,153 @@
+{
+  "stockedItems": [],
+  "itemList": [
+    {
+      "name": "Dirt",
+      "id": 0,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Log",
+      "id": 1,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Gravel",
+      "id": 2,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Flint",
+      "id": 3,
+      "recipeItemIds": [
+        2
+      ],
+      "recipeItemAmounts": [
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Crafting table",
+      "id": 4,
+      "recipeItemIds": [
+        3,
+        1
+      ],
+      "recipeItemAmounts": [
+        2,
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Planks",
+      "id": 5,
+      "recipeItemIds": [
+        1
+      ],
+      "recipeItemAmounts": [
+        1
+      ],
+      "recipeYield": 2
+    },
+    {
+      "name": "Stick",
+      "id": 6,
+      "recipeItemIds": [
+        5
+      ],
+      "recipeItemAmounts": [
+        2
+      ],
+      "recipeYield": 2
+    },
+    {
+      "name": "Chest",
+      "id": 7,
+      "recipeItemIds": [
+        1,
+        5,
+        3
+      ],
+      "recipeItemAmounts": [
+        4,
+        4,
+        1
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Cobblestone",
+      "id": 8,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Furnace",
+      "id": 9,
+      "recipeItemIds": [
+        8,
+        3
+      ],
+      "recipeItemAmounts": [
+        6,
+        3
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Wool",
+      "id": 10,
+      "recipeItemIds": [],
+      "recipeItemAmounts": [],
+      "recipeYield": 1
+    },
+    {
+      "name": "Carpet",
+      "id": 11,
+      "recipeItemIds": [
+        10
+      ],
+      "recipeItemAmounts": [
+        2
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Wood fence",
+      "id": 12,
+      "recipeItemIds": [
+        5,
+        6
+      ],
+      "recipeItemAmounts": [
+        3,
+        6
+      ],
+      "recipeYield": 1
+    },
+    {
+      "name": "Bed",
+      "id": 13,
+      "recipeItemIds": [
+        11,
+        5,
+        12
+      ],
+      "recipeItemAmounts": [
+        3,
+        3,
+        2
+      ],
+      "recipeYield": 1
+    }
+  ]
+}

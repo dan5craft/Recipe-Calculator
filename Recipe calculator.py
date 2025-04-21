@@ -103,18 +103,19 @@ def editItem(item, changedName, recipeItemIds=[], recipeItemAmounts=[], recipeYi
         json.dump(items, f, indent=2)
 
 def calculateRecipe(item, amount, layer=0, leftovers=[]):
+    print("Making "+str(amount)+" "+item["name"])
     if findItemInList(item["name"], leftovers) != -1:
+        print("but have "+str(leftovers[findItemInList(item["name"], leftovers)].count)+" leftover "+item["name"])
         diff = amount - leftovers[findItemInList(item["name"], leftovers)].count
-        print(diff)
         if(diff < 1):
             leftovers[findItemInList(item["name"], leftovers)].count -= amount
             return
         else:
-            amount -= diff
-            leftovers[findItemInList(item["name"], leftovers)].count -= diff
+            amount -= leftovers[findItemInList(item["name"], leftovers)].count
+            leftovers.pop(findItemInList(item["name"], leftovers))
     recipeCount = math.ceil(amount/item["recipeYield"])
     itemIds = item["recipeItemIds"]
-    if inStockedItems(item["id"]):
+    if inStockedItems(item["id"]) and layer > 0:
         itemIds = []
         actualAmount = amount
     else:
@@ -122,9 +123,9 @@ def calculateRecipe(item, amount, layer=0, leftovers=[]):
     if(actualAmount > amount):
         if findItemInList(item["name"], leftovers) == -1:
             leftovers.append(Item(item["name"],actualAmount-amount))
-            print(actualAmount-amount)
         else:
             leftovers[findItemInList(item["name"], leftovers)].count += actualAmount-amount
+    print("But actually making "+str(actualAmount)+" "+item["name"])
     for x in range(len(itemIds)):
         calculateRecipe(getItemFromId(itemIds[x]), item["recipeItemAmounts"][x]*recipeCount, layer+1,leftovers)
     if itemIds == []:
@@ -142,11 +143,12 @@ def calculateRecipe(item, amount, layer=0, leftovers=[]):
     else:
         combinedAmounts[combinedItems.index(item)] += actualAmount
     if layer == 0:
-        print("How to craft "+str(amount)+" "+item["name"]+".\n")
-        print("# Raw materials required:")
+        leftovers.clear()
+        print("\n# How to craft "+str(amount)+" "+item["name"]+".\n")
+        print("## Raw materials required:")
         for x in range(len(rawItems)):
             print("- "+str(rawAmounts[x])+" "+rawItems[x]["name"])
-        print("\n# Combined amounts:")
+        print("\n## Combined amounts:")
         for x in range(len(combinedItems)):
             if combinedItems[x] == "":
                 print("")
