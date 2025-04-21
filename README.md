@@ -12,7 +12,7 @@ Right now it already contains a json file that has a lot of items from gregtech 
 # Instructions
 ## To open the program
 Either use the Recipe calculator.py file with python installed, or go into the dist folder and use the Recipe calculator.exe.
-Keep in mind that the json files have to be in the same folder as the program you are using.
+Keep in mind that the json files have to be in the recipe files folder.
 
 ## To use the program
 First it will ask you what the name of the json file is, if you don't have one, then type the name you wanna give a new json file, and create it.
