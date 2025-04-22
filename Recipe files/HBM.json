@@ -1,5 +1,7 @@
 {
-  "stockedItems": [],
+  "stockedItems": [
+    115
+  ],
   "itemList": [
     {
       "name": "10k-20hz transformer",
