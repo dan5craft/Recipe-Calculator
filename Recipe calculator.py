@@ -103,9 +103,7 @@ def editItem(item, changedName, recipeItemIds=[], recipeItemAmounts=[], recipeYi
         json.dump(items, f, indent=2)
 
 def calculateRecipe(item, amount, layer=0, leftovers=[]):
-    print("Making "+str(amount)+" "+item["name"])
     if findItemInList(item["name"], leftovers) != -1:
-        print("but have "+str(leftovers[findItemInList(item["name"], leftovers)].count)+" leftover "+item["name"])
         diff = amount - leftovers[findItemInList(item["name"], leftovers)].count
         if(diff < 1):
             leftovers[findItemInList(item["name"], leftovers)].count -= amount
@@ -125,7 +123,6 @@ def calculateRecipe(item, amount, layer=0, leftovers=[]):
             leftovers.append(Item(item["name"],actualAmount-amount))
         else:
             leftovers[findItemInList(item["name"], leftovers)].count += actualAmount-amount
-    print("But actually making "+str(actualAmount)+" "+item["name"])
     for x in range(len(itemIds)):
         calculateRecipe(getItemFromId(itemIds[x]), item["recipeItemAmounts"][x]*recipeCount, layer+1,leftovers)
     if itemIds == []:
